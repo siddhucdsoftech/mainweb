@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://cdsoftech.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url><loc>https://cdsoftech.com/page-about.php</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cdsoftech.com/page-services.php</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://cdsoftech.com/page-service-details.php</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cdsoftech.com/page-projects.php</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cdsoftech.com/page-project-details.php</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://cdsoftech.com/page-pricing.php</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cdsoftech.com/page-team.php</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cdsoftech.com/page-team-details.php</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cdsoftech.com/page-testimonial.php</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cdsoftech.com/page-faq.php</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://cdsoftech.com/news-grid.php</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://cdsoftech.com/news-details.php</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://cdsoftech.com/page-contact.php</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cdsoftech.com/contact.php</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://cdsoftech.com/privacy-policy.php</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://cdsoftech.com/terms-and-conditions.php</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://cdsoftech.com/refund-policy.php</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://cdsoftech.com/cookies-policy.php</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://cdsoftech.com/sitemap.php</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+</urlset>
